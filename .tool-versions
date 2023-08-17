@@ -2,4 +2,5 @@ nodejs 18.14.2
 ruby 2.7.2
 werf 1.2.204
 rust 1.68.1
-java zulu-11.64.19
+java corretto-17.0.7.7.1
+python 3.11.4
