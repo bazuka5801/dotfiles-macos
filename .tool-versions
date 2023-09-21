@@ -1,5 +1,5 @@
 nodejs 18.14.2
-ruby 2.7.2
+ruby 3.2.2
 werf 1.2.204
 rust 1.68.1
 java corretto-17.0.7.7.1
