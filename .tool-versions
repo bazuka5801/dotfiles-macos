@@ -4,3 +4,6 @@ werf 1.2.204
 rust 1.68.1
 java corretto-17.0.7.7.1
 python 3.11.4
+deno 1.36.2
+ffmpeg 6.0
+bun 1.0.14
